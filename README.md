@@ -1,6 +1,6 @@
 # What we are doing
 - We are following a portion of a tutorial outlined in this paper: https://doi.org/10.1038/s41596-020-0353-1.
-- The portion we are following is QC of base data.
+- The portion of the tutorial we are following is QC of base data.
 - We will take a pre-QC data file called `Height.gwas.txt.gz` and perform some QC described by the paper.
 - After performing QC, we will check our result against a correctly QC'd file called `Height.QC.gz`.
 
